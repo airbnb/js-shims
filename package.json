@@ -1,5 +1,5 @@
 {
-	"name": "@airbnb/js-shims",
+	"name": "airbnb-js-shims",
 	"version": "1.0.0",
 	"description": "JS language shims used by Airbnb.",
 	"main": "index.js",

@@ -1,4 +1,4 @@
-# @airbnb/js-shims
+# airbnb-js-shims
 
 JS language shims used by Airbnb.
 
