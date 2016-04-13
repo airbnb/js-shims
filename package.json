@@ -18,7 +18,7 @@
 	"author": "Jordan Harband <ljharb@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
-		"es5-shim": "^4.5.7",
+		"es5-shim": "^4.5.8",
 		"es6-shim": "^0.35.0",
 		"array-includes": "^3.0.2",
 		"object.entries": "^1.0.3",
