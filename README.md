@@ -1,4 +1,4 @@
-# airbnb-js-shims
+# airbnb-js-shims <sup>[![Version Badge][2]][1]</sup>
 
 JS language shims used by Airbnb.
 
@@ -13,3 +13,6 @@ Included shims:
  - [Object.values](https://www.npmjs.com/package/object.values) (ES8/ES2017)
  - [String.prototype.padStart](https://www.npmjs.com/package/string.prototype.padstart) (ES8/ES2017)
  - [String.prototype.padEnd](https://www.npmjs.com/package/string.prototype.padend) (ES8/ES2017)
+
+[1]: https://npmjs.org/package/airbnb-js-shims
+[2]: http://versionbadg.es/airbnb/js-shims.svg
