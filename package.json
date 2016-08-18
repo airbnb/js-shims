@@ -18,12 +18,12 @@
 	"author": "Jordan Harband <ljharb@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
-		"es5-shim": "^4.5.8",
-		"es6-shim": "^0.35.0",
+		"es5-shim": "^4.5.9",
+		"es6-shim": "^0.35.1",
 		"array-includes": "^3.0.2",
 		"object.entries": "^1.0.3",
 		"object.values": "^1.0.3",
-		"object.getownpropertydescriptors": "^2.0.2",
+		"object.getownpropertydescriptors": "^2.0.3",
 		"string.prototype.padstart": "^3.0.0",
 		"string.prototype.padend": "^3.0.0"
 	},
