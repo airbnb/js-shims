@@ -4,6 +4,7 @@
 	"description": "JS language shims used by Airbnb.",
 	"main": "index.js",
 	"scripts": {
+		"prepublish": "safe-publish-latest",
 		"lint": "eslint .",
 		"pretest": "npm run lint",
 		"test": "npm run tests-only",
@@ -35,6 +36,7 @@
 		"eslint-plugin-import": "^1.13.0",
 		"eslint-plugin-jsx-a11y": "^2.1.0",
 		"eslint-plugin-react": "^6.1.2",
+		"safe-publish-latest": "^1.0.1",
 		"tape": "^4.6.0"
 	},
 	"publishConfig": {
