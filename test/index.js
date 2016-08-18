@@ -1,3 +1,3 @@
 var test = require('tape');
 
-require('./');
+require('../');
