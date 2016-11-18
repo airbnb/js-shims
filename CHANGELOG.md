@@ -1,3 +1,7 @@
+Unreleased
+=================
+  * [New] add requestIdleCallback
+
 1.0.1 / 2016-08-17
 =================
   * [Deps] update `es5-shim`, `es6-shim`, `object.getownpropertydescriptors`
