@@ -1,3 +1,7 @@
+1.1.0 / 2016-08-17
+=================
+  * Add entry points for targeting specific ES versions
+
 1.0.1 / 2016-08-17
 =================
   * [Deps] update `es5-shim`, `es6-shim`, `object.getownpropertydescriptors`
