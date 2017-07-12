@@ -13,6 +13,7 @@ import 'airbnb-js-shims';
  - [es5-shim](https://www.npmjs.com/package/es5-shim)
  - [es5-sham](https://www.npmjs.com/package/es5-shim)
  - [es6-shim](https://www.npmjs.com/package/es6-shim)
+ - [Function.prototype.name](https://www.npmjs.com/package/function.prototype.name)
  - [Array.prototype.includes](https://www.npmjs.com/package/array-includes) (ES7/ES2016)
  - [Object.entries](https://www.npmjs.com/package/object.entries) (ES8/ES2017)
  - [Object.values](https://www.npmjs.com/package/object.values) (ES8/ES2017)
