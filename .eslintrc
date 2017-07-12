@@ -1,14 +1,10 @@
 {
   "root": true,
 
-  "extends": "airbnb",
-
-  "parserOptions": {
-    "sourceType": "script"
-  },
+  "extends": "airbnb-base/legacy",
 
   "rules": {
     "strict": [2, "global"],
-    "no-var": 0
+    "vars-on-top": 0,
   }
 }
