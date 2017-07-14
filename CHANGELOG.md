@@ -1,3 +1,11 @@
+1.2.0 / 2017-07-14
+=================
+  * [New] add `Function#name` shim for IE 9-11
+  * [Deps] update `array-includes`, `es6-shim`, `object.entries`, `object.values`
+  * [Dev Deps] update `eslint`, `eslint-plugin-import`, `safe-publish-latest`, `tape`; switch to `eslint-config-airbnb-base`
+  * [Tests] up to `node` `v8.1`, `v7.10`, `v6.11`, `v5.12`, `v4.8`; improve matrix; newer npms fail on older nodes
+  * [Tests] ensure all target files parse
+
 1.1.1 / 2017-02-16
 =================
   * [Fix] Correctly require es2017 from es2016
