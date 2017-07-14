@@ -21,13 +21,13 @@
 	"author": "Jordan Harband <ljharb@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
-		"array-includes": "^3.0.2",
+		"array-includes": "^3.0.3",
 		"es5-shim": "^4.5.9",
-		"es6-shim": "^0.35.1",
+		"es6-shim": "^0.35.3",
 		"function.prototype.name": "^1.0.2",
-		"object.entries": "^1.0.3",
+		"object.entries": "^1.0.4",
 		"object.getownpropertydescriptors": "^2.0.3",
-		"object.values": "^1.0.3",
+		"object.values": "^1.0.4",
 		"string.prototype.padend": "^3.0.0",
 		"string.prototype.padstart": "^3.0.0"
 	},
