@@ -1,3 +1,9 @@
+1.3.0 / 2017-07-28
+=================
+  * [New] add `promise.prototype.finally` shim, and ES2018 target
+  * [Deps] update `function.prototype.name`
+  * [Dev Deps] update `eslint`, `eslint-config-airbnb-base`
+
 1.2.0 / 2017-07-14
 =================
   * [New] add `Function#name` shim for IE 9-11
