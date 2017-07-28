@@ -19,6 +19,7 @@ import 'airbnb-js-shims';
  - [Object.values](https://www.npmjs.com/package/object.values) (ES8/ES2017)
  - [String.prototype.padStart](https://www.npmjs.com/package/string.prototype.padstart) (ES8/ES2017)
  - [String.prototype.padEnd](https://www.npmjs.com/package/string.prototype.padend) (ES8/ES2017)
+ - [Promise.prototype.finally](https://npmjs.com/package/promise.prototype.finally) (Stage 3, ES2018 candidate)
 
 ## Targeting versions
 
@@ -34,6 +35,7 @@ import 'airbnb-js-shims/target/es2015';
 - `airbnb-js-shims/target/es2015`
 - `airbnb-js-shims/target/es2016`
 - `airbnb-js-shims/target/es2017`
+- `airbnb-js-shims/target/es2018`
 
 [1]: https://npmjs.org/package/airbnb-js-shims
 [2]: http://versionbadg.es/airbnb/js-shims.svg

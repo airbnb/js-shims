@@ -28,6 +28,7 @@
 		"object.entries": "^1.0.4",
 		"object.getownpropertydescriptors": "^2.0.3",
 		"object.values": "^1.0.4",
+		"promise.prototype.finally": "^3.0.0",
 		"string.prototype.padend": "^3.0.0",
 		"string.prototype.padstart": "^3.0.0"
 	},
