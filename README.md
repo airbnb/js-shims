@@ -20,6 +20,8 @@ import 'airbnb-js-shims';
  - [String.prototype.padStart](https://www.npmjs.com/package/string.prototype.padstart) (ES8/ES2017)
  - [String.prototype.padEnd](https://www.npmjs.com/package/string.prototype.padend) (ES8/ES2017)
  - [Promise.prototype.finally](https://npmjs.com/package/promise.prototype.finally) (Stage 3, ES2018 candidate)
+ - [Array.prototype.flatten](https://npmjs.com/package/array.prototype.flatten) (Stage 3, ES2018 candidate)
+ - [Array.prototype.flatMap](https://npmjs.com/package/array.prototype.flatMap) (Stage 3, ES2018 candidate)
 
 ## Targeting versions
 

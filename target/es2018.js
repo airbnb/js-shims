@@ -4,3 +4,6 @@
 if (typeof Promise === 'function') {
   require('promise.prototype.finally/shim')(); // eslint-disable-line global-require
 }
+
+require('array.prototype.flatten/shim')();
+require('array.prototype.flatmap/shim')();

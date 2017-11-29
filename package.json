@@ -22,6 +22,8 @@
 	"license": "MIT",
 	"dependencies": {
 		"array-includes": "^3.0.3",
+		"array.prototype.flatmap": "^1.1.1",
+		"array.prototype.flatten": "^1.1.0",
 		"es5-shim": "^4.5.9",
 		"es6-shim": "^0.35.3",
 		"function.prototype.name": "^1.0.3",
