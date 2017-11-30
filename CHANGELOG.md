@@ -1,3 +1,10 @@
+1.4.0 / 2017-11-29
+=================
+  * [New] add `Array.prototype.flat{ten,Map}`, now at stage 3
+  * [Deps] update `promise.prototype.finally`
+  * [Dev Deps] update `eslint`, `eslint-config-airbnb-base`, `eslint-plugin-import`, `tape`
+  * [Tests] up to `node` `v9.2`, `v8.9`, `v6.12`; use `nvm install-latest-npm`; pin included builds to LTS
+
 1.3.0 / 2017-07-28
 =================
   * [New] add `promise.prototype.finally` shim, and ES2018 target
