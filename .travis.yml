@@ -2,7 +2,7 @@ language: node_js
 os:
  - linux
 node_js:
-  - "9.2"
+  - "9.4"
   - "8.9"
   - "7.10"
   - "6.12"
@@ -31,6 +31,14 @@ matrix:
   include:
     - node_js: "lts/*"
       env: PRETEST=true
+    - node_js: "lts/*"
+      env: POSTTEST=true
+    - node_js: "4"
+      env: COVERAGE=true
+    - node_js: "9.3"
+      env: TEST=true ALLOW_FAILURE=true
+    - node_js: "9.2"
+      env: TEST=true ALLOW_FAILURE=true
     - node_js: "9.1"
       env: TEST=true ALLOW_FAILURE=true
     - node_js: "9.0"
@@ -181,4 +189,3 @@ matrix:
     - os: osx
     - env: TEST=true ALLOW_FAILURE=true
     - env: COVERAGE=true
-    - node_js: "9.2"
