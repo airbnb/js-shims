@@ -1,6 +1,6 @@
 {
 	"name": "airbnb-js-shims",
-	"version": "1.4.0",
+	"version": "1.4.1",
 	"description": "JS language shims used by Airbnb.",
 	"main": "index.js",
 	"scripts": {

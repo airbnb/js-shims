@@ -1,3 +1,10 @@
+1.4.1 / 2018-01-24
+=================
+  * [Docs] Promise.prototype.finally is at stage 4
+  * [Deps] update `array.prototype.flatmap`, `array.prototype.flatten`, `es5-shim`, `function.prototype.name`
+  * [Dev Deps] update `eslint`
+  * [Tests] up to `node` `v9.4`; pin included builds to LTS
+
 1.4.0 / 2017-11-29
 =================
   * [New] add `Array.prototype.flat{ten,Map}`, now at stage 3
