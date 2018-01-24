@@ -8,7 +8,8 @@
 		"lint": "eslint .",
 		"pretest": "npm run lint",
 		"test": "npm run tests-only",
-		"tests-only": "node test"
+		"tests-only": "node test",
+		"posttest": "nsp check"
 	},
 	"repository": {
 		"type": "git",
@@ -38,6 +39,7 @@
 		"eslint": "^4.16.0",
 		"eslint-config-airbnb-base": "^12.1.0",
 		"eslint-plugin-import": "^2.8.0",
+		"nsp": "^3.1.0",
 		"safe-publish-latest": "^1.1.1",
 		"tape": "^4.8.0"
 	},
