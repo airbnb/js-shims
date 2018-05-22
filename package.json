@@ -23,6 +23,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"array-includes": "^3.0.3",
+		"array.prototype.flat": "^1.2.1",
 		"array.prototype.flatmap": "^1.2.1",
 		"array.prototype.flatten": "^1.2.1",
 		"es5-shim": "^4.5.10",
