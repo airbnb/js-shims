@@ -1,3 +1,10 @@
+1.5.0 / 2018-05-22
+=================
+  * [New] add `array.prototype.flat`, deprecate `Array.prototype.flatten`
+  * [New] add `symbol.prototype.description`
+  * [Deps] update `array.prototype.flatten`, `array.prototype.flatmap`
+  * [Dev Deps] update `eslint`, `eslint-plugin-import`, `nsp`, `tape`
+
 1.4.1 / 2018-01-24
 =================
   * [Docs] Promise.prototype.finally is at stage 4
