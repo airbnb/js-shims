@@ -34,7 +34,8 @@
 		"object.values": "^1.0.4",
 		"promise.prototype.finally": "^3.1.0",
 		"string.prototype.padend": "^3.0.0",
-		"string.prototype.padstart": "^3.0.0"
+		"string.prototype.padstart": "^3.0.0",
+		"symbol.prototype.description": "^1.0.0"
 	},
 	"devDependencies": {
 		"eslint": "^4.16.0",

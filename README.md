@@ -20,9 +20,10 @@ import 'airbnb-js-shims';
  - [String.prototype.padStart](https://www.npmjs.com/package/string.prototype.padstart) (ES8/ES2017)
  - [String.prototype.padEnd](https://www.npmjs.com/package/string.prototype.padend) (ES8/ES2017)
  - [Promise.prototype.finally](https://npmjs.com/package/promise.prototype.finally) (Stage 4, ES2018)
- - [Array.prototype.flat](https://npmjs.com/package/array.prototype.flat) (Stage 3, ES2018 candidate)
- - (DEPRECATED: renamed to "flat") [Array.prototype.flatten](https://npmjs.com/package/array.prototype.flatten) (Stage 3, ES2018 candidate)
- - [Array.prototype.flatMap](https://npmjs.com/package/array.prototype.flatMap) (Stage 3, ES2018 candidate)
+ - [Array.prototype.flat](https://npmjs.com/package/array.prototype.flat) (Stage 3, ES2019 candidate)
+ - (DEPRECATED: renamed to "flat") [Array.prototype.flatten](https://npmjs.com/package/array.prototype.flatten) (Stage 3, ES2019 candidate)
+ - [Array.prototype.flatMap](https://npmjs.com/package/array.prototype.flatMap) (Stage 3, ES2019 candidate)
+ - [Symbol.prototype.description](https://npmjs.com/package/symbol.prototype.description) (Stage 3, ES2019 candidate)
 
 ## Targeting versions
 
