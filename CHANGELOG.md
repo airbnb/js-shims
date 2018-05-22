@@ -1,3 +1,7 @@
+1.5.1 / 2018-05-22
+=================
+  * [Fix] actually add `Array.prototype.flat` and `Symbol.prototype.description`
+
 1.5.0 / 2018-05-22
 =================
   * [New] add `array.prototype.flat`, deprecate `Array.prototype.flatten`
