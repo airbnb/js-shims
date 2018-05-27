@@ -6,6 +6,7 @@ if (typeof Promise === 'function') {
 }
 
 require('array.prototype.flat/shim')();
+require('array.prototype.flatten/shim')();
 require('array.prototype.flatmap/shim')();
 
 require('symbol.prototype.description/shim')();
