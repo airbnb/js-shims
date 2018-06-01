@@ -24,6 +24,7 @@ import 'airbnb-js-shims';
  - (DEPRECATED: renamed to "flat") [Array.prototype.flatten](https://npmjs.com/package/array.prototype.flatten) (Stage 3, ES2019 candidate)
  - [Array.prototype.flatMap](https://npmjs.com/package/array.prototype.flatMap) (Stage 3, ES2019 candidate)
  - [Symbol.prototype.description](https://npmjs.com/package/symbol.prototype.description) (Stage 3, ES2019 candidate)
+ - [String.prototype.matchAll](https://npmjs.com/package/string.prototype.matchall) (Stage 3, ES2019 candidate)
 
 ## Targeting versions
 
@@ -40,6 +41,7 @@ import 'airbnb-js-shims/target/es2015';
 - `airbnb-js-shims/target/es2016`
 - `airbnb-js-shims/target/es2017`
 - `airbnb-js-shims/target/es2018`
+- `airbnb-js-shims/target/es2019`
 
 [1]: https://npmjs.org/package/airbnb-js-shims
 [2]: http://versionbadg.es/airbnb/js-shims.svg
