@@ -1,3 +1,7 @@
+1.6.0 / 2018-05-31
+=================
+  * [New] add `String.prototype.matchAll`, and `es2019` target
+
 1.5.2 / 2018-05-27
 =================
   * [Fix] restore `.flatten()`

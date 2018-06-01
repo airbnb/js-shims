@@ -1,6 +1,6 @@
 {
 	"name": "airbnb-js-shims",
-	"version": "1.5.2",
+	"version": "1.6.0",
 	"description": "JS language shims used by Airbnb.",
 	"main": "index.js",
 	"scripts": {
@@ -32,6 +32,7 @@
 		"object.getownpropertydescriptors": "^2.0.3",
 		"object.values": "^1.0.4",
 		"promise.prototype.finally": "^3.1.0",
+		"string.prototype.matchall": "^3.0.0",
 		"string.prototype.padend": "^3.0.0",
 		"string.prototype.padstart": "^3.0.0",
 		"symbol.prototype.description": "^1.0.0"
