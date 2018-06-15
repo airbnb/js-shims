@@ -1,3 +1,7 @@
+2.0.0 / 2018-06-14
+=================
+  * [Breaking] remove `Array.prototype.flatten`
+
 1.6.0 / 2018-05-31
 =================
   * [New] add `String.prototype.matchAll`, and `es2019` target
