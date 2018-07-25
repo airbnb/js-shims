@@ -1,3 +1,7 @@
+2.1.0 / 2018-07-25
+=================
+  * [New] add `Object.fromEntries`
+
 2.0.0 / 2018-06-14
 =================
   * [Breaking] remove `Array.prototype.flatten`
