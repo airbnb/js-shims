@@ -25,6 +25,7 @@ import 'airbnb-js-shims';
  - [Array.prototype.flatMap](https://npmjs.com/package/array.prototype.flatMap) (Stage 3, ES2019 candidate)
  - [Symbol.prototype.description](https://npmjs.com/package/symbol.prototype.description) (Stage 3, ES2019 candidate)
  - [String.prototype.matchAll](https://npmjs.com/package/string.prototype.matchall) (Stage 3, ES2019 candidate)
+ - [Object.fromEntries](https://npmjs.com/package/object.fromentries) (Stage 3, ES2019 candidate)
 
 ## Targeting versions
 
