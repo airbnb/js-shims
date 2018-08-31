@@ -1,3 +1,8 @@
+2.1.1 / 2018-08-31
+=================
+  * [meta] add license text (#8)
+  * [docs] fix link to flatMap package (#7)
+
 2.1.0 / 2018-07-25
 =================
   * [New] add `Object.fromEntries`
