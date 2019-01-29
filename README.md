@@ -19,12 +19,12 @@ import 'airbnb-js-shims';
  - [Object.values](https://www.npmjs.com/package/object.values) (ES8/ES2017)
  - [String.prototype.padStart](https://www.npmjs.com/package/string.prototype.padstart) (ES8/ES2017)
  - [String.prototype.padEnd](https://www.npmjs.com/package/string.prototype.padend) (ES8/ES2017)
- - [Promise.prototype.finally](https://npmjs.com/package/promise.prototype.finally) (Stage 4, ES2018)
- - [Array.prototype.flat](https://npmjs.com/package/array.prototype.flat) (Stage 3, ES2019 candidate)
- - [Array.prototype.flatMap](https://npmjs.com/package/array.prototype.flatmap) (Stage 3, ES2019 candidate)
- - [Symbol.prototype.description](https://npmjs.com/package/symbol.prototype.description) (Stage 3, ES2019 candidate)
+ - [Promise.prototype.finally](https://npmjs.com/package/promise.prototype.finally) (ES2018)
+ - [Array.prototype.flat](https://npmjs.com/package/array.prototype.flat) (ES2019)
+ - [Array.prototype.flatMap](https://npmjs.com/package/array.prototype.flatmap) (ES2019)
+ - [Symbol.prototype.description](https://npmjs.com/package/symbol.prototype.description) (ES2019)
+ - [Object.fromEntries](https://npmjs.com/package/object.fromentries) (ES2019)
  - [String.prototype.matchAll](https://npmjs.com/package/string.prototype.matchall) (Stage 3, ES2019 candidate)
- - [Object.fromEntries](https://npmjs.com/package/object.fromentries) (Stage 3, ES2019 candidate)
 
 ## Targeting versions
 
