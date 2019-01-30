@@ -9,7 +9,10 @@
 		"pretest": "npm run lint",
 		"test": "npm run tests-only",
 		"tests-only": "node test",
-		"posttest": "nsp check"
+		"posttest": "npm run audit",
+		"preaudit": "npm install --package-lock --package-lock-only",
+		"audit": "npm audit",
+		"postaudit": "rm package-lock.json"
 	},
 	"repository": {
 		"type": "git",
@@ -42,7 +45,6 @@
 		"eslint": "^4.19.1",
 		"eslint-config-airbnb-base": "^13.0.0",
 		"eslint-plugin-import": "^2.13.0",
-		"nsp": "^3.2.1",
 		"safe-publish-latest": "^1.1.1",
 		"tape": "^4.9.1"
 	},
