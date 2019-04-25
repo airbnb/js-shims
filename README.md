@@ -24,7 +24,9 @@ import 'airbnb-js-shims';
  - [Array.prototype.flatMap](https://npmjs.com/package/array.prototype.flatmap) (ES2019)
  - [Symbol.prototype.description](https://npmjs.com/package/symbol.prototype.description) (ES2019)
  - [Object.fromEntries](https://npmjs.com/package/object.fromentries) (ES2019)
- - [String.prototype.matchAll](https://npmjs.com/package/string.prototype.matchall) (Stage 3, ES2019 candidate)
+ - [String.prototype.matchAll](https://npmjs.com/package/string.prototype.matchall) (ES2019)
+ - [globalThis](https://www.npmjs.com/package/globalthis) (Stage 3)
+ - [Promise.allSettled](https://www.npmjs.com/package/promise.allsettled) (Stage 3)
 
 ## Targeting versions
 
@@ -42,6 +44,7 @@ import 'airbnb-js-shims/target/es2015';
 - `airbnb-js-shims/target/es2017`
 - `airbnb-js-shims/target/es2018`
 - `airbnb-js-shims/target/es2019`
+- `airbnb-js-shims/target/es2020`
 
 [1]: https://npmjs.org/package/airbnb-js-shims
 [2]: http://versionbadg.es/airbnb/js-shims.svg
