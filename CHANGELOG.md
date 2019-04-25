@@ -1,3 +1,11 @@
+2.2.0 / 2019-04-25
+=================
+  * [New] add `es2020` target; add `globalthis` and `promise.allsettled` shims
+  * [Deps] update `object.entries`, `object.fromentries`, `object.values`, `string.prototype.matchall`, `es5-shim`, `es6-shim`
+  * [Dev Deps] update `eslint`, `eslint-config-airbnb-base`, `eslint-plugin-import`, `safe-publish-latest`, `tape`
+  * [Docs] Update proposals that are in the language
+  * [Tests] use `npm audit` instead of `nsp`
+
 2.1.1 / 2018-08-31
 =================
   * [meta] add license text (#8)
