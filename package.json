@@ -3,6 +3,10 @@
 	"version": "2.2.0",
 	"description": "JS language shims used by Airbnb.",
 	"main": "index.js",
+	"files": [
+		"/target",
+		"index.js"
+	],
 	"scripts": {
 		"prepublish": "safe-publish-latest",
 		"lint": "eslint .",
