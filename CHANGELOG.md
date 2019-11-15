@@ -1,3 +1,7 @@
+2.2.1 / 2019-11-15
+=================
+  * Allow `string.prototype.matchall` v4
+
 2.2.0 / 2019-04-25
 =================
   * [New] add `es2020` target; add `globalthis` and `promise.allsettled` shims
